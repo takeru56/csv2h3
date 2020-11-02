@@ -11,9 +11,9 @@ import (
 // [経度, 緯度]のcsvファイル → [h3]のcsvファイル
 
 // *********************************************
-var filePath = "./ovd_result_09_bmw.csv"
+var filePath = "./ovd_result_10_imiev2.csv"
 var resolution = "8"
-var outFilePath = "ovd_hex_09_bmw.csv"
+var outFilePath = "ovd_hex_10_imiev2.csv"
 
 // *********************************************
 

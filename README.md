@@ -1,6 +1,5 @@
-# lat/long2h3
-Convert geographic data from latitude/longitudo format to H3 format.
+# geo-csv2h3-csv
+wrapper of [geo2h3](https://github.com/uber/h3).
+This can convert list of geo-data(log/lang) to list of h3.
+input and output format is .csv.
 
-## what is H3
-H3 is Uber-defined geographic data format.
-https://eng.uber.com/h3/
